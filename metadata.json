@@ -1,0 +1,12 @@
+{
+  "name": "Xián Huà (闲话)",
+  "description": "Explore and learn the richness of Chinese dialects through culture, practice, and community.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Dialect Learning",
+    "Cultural Exploration",
+    "Audio Practice"
+  ]
+}
